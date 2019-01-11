@@ -1,0 +1,7 @@
+1,"WELCOME YOUNGLING TO F QUEST, here your dreams will come true, as will your memories?",go left?,go right? ,scream?,2,3,4,Shrek.png
+2,"you went left, a small boy appears  ",attack  ,stop ,run,5,6,7,
+3,"you went right, a small boy appears ",attack  ,stop ,run,5,6,7,hi.png
+4,ahhh you yell,attack  ,stop ,run,5,6,7,
+5,"you have attacked the boy, he dead ",oh ,oh ,oh,1,1,1,hi.png
+6,"you have defended yourself, well donr",HOORAY,HOORAY,run,1,1,7,
+7,"you got away, well done",HOORAY ,HOORAY ,HOORAY ,1,1,1,Shrek.png
